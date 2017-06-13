@@ -1,0 +1,13 @@
+6
+STRT   1   147   193   ""
+SmplAssign   2   75   280   x   3   ""
+SmplAssign   3   76   387   y   4   ""
+COND   4   503   149   x  GRT   y   ""
+WRITE   5   655   315   x    ""
+WRITE   6   403   324   y    ""
+5
+1   2   0
+2   3   0
+3   4   0
+4   5   1
+4   6   2

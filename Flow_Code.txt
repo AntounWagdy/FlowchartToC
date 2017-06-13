@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	double x,y;
+	x=3;
+	y=4;
+	if(x > y)
+	{
+		cout<<x;
+		return 0;
+
+	}
+	else 
+	{
+		cout<<y;
+		return 0;
+	}
+}
